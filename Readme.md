@@ -1,6 +1,6 @@
 Quadcopter-V1.0
 ========
-* File Name   : README.md
+* File Name   : Readme.md
 * Author      : Hom19910422
 * Version     : v1.0
 * Date        : 2013/08/01
