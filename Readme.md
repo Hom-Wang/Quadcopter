@@ -7,23 +7,25 @@ Quadcopter-V1.0
 * Description : University Project
 * Wiki        : https://github.com/Hom19910422/Quadcopter-V1.0/wiki
 
-╜╦╠╠╙O
+О©╫О©╫О©╫О©╫О©╫O
 ========
-* ╠╠╗Н╬╧║@STM32F405RG 64Pin 168MHz DSP FPU
-* ╥P╢З╬╧║@L3G4200 + LSM303
-* ╣L╫u╤г©И║@nRF24L01P + PA + LNA
-* 6╜сPWMЁq╧D║@Ёs╠╣╧q╫у║BLED║BPPM
-* 1╜сUSART╠╣╓f║@╔iбX╔RGPS╪р╡у║Bбе╙ч╪р╡у║B╧q╦ё╤г©ИRS232
+* О©╫О©╫О©╫Н╬╧О©╫@STM32F405RG 64Pin 168MHz DSP FPU
+* О©╫PО©╫О©╫О©╫О©╫О©╫@L3G4200 + LSM303
+* О©╫LО©╫uО©╫г©О©╫О©╫@nRF24L01P + PA + LNA
+* 6О©╫О©╫PWMО©╫qО©╫DО©╫@О©╫sО©╫О©╫О©╫qО©╫у║BLEDО©╫BPPM
+* 1О©╫О©╫USARTО©╫О©╫О©╫fО©╫@О©╫iО©╫XО©╫RGPSО©╫р╡у║BО©╫е╙ч╪р╡у║BО©╫qО©╫О©╫О©╫г©О©╫RS232
 
-╩╩╠╠╬╧
+О©╫О©╫О©╫О©╫О©╫О©╫
 ========
-* ╠╠╗Н╬╧║@STM32F407VG 100Pin 168MHz DSP FPU
-* еЦ╔э╬╧║@4.3╕T©ц╧У║A480*242║ASSD1963
-* ╣L╫u╤г©И║@nRF24L01P + PA + LNA
-* юx╕s╛Ж©Щ║@SD╔d║A╗о╔нSDIO╬ч╖@
-* 1╜сI2C╠╣╓f║@╔~бX╗Д╔L╦к╦m
-* 1╜сUART╠╣╓f║@╔iбX╔RGPS╪р╡у║Bбе╙ч╪р╡у║B╧q╦ё╤г©ИRS232
+* О©╫О©╫О©╫Н╬╧О©╫@STM32F407VG 100Pin 168MHz DSP FPU
+* О©╫О©╫О©╫э╬О©╫О©╫@4.3О©╫TО©╫ц╧О©╫О©╫A480*242О©╫ASSD1963
+* О©╫LО©╫uО©╫г©О©╫О©╫@nRF24L01P + PA + LNA
+* О©╫xО©╫sО©╫О©╫О©╫О©╫О©╫@SDО©╫dО©╫AО©╫о╔О©╫SDIOО©╫ч╖@
+* 1О©╫О©╫I2CО©╫О©╫О©╫fО©╫@О©╫~О©╫XО©╫О©╫О©╫LО©╫к╦m
+* 1О©╫О©╫UARTО©╫О©╫О©╫fО©╫@О©╫iО©╫XО©╫RGPSО©╫р╡у║BО©╫е╙ч╪р╡у║BО©╫qО©╫О©╫О©╫г©О©╫RS232
 
-╔ь╚e╙╛╙p
+О©╫ь╚eО©╫О©╫О©╫p
 ========
-* ╔i╔H╧F╗Л╔╜©е║A╕Щ╘|╣L╙kдa╟╠
+* О©╫iО©╫HО©╫FО©╫Л╔╜О©╫е║AО©╫О©╫О©╫|О©╫LО©╫kО©╫aО©╫О©╫
+  
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/tw/deed.zh_TW"><img alt="Е┴╣Г■╗ CC Ф▌┬Ф╛┼Ф╒²Ф╛╬" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/3.0/tw/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Quadcopter-V1.0</span>Г■╠<a xmlns:cc="http://creativecommons.org/ns#" href="https://plus.google.com/u/0/112822505513154783828/posts" property="cc:attributionName" rel="cc:attributionURL">Hom</a>Хё╫Д╫°О╪▄Д╩╔<a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/tw/deed.zh_TW">Е┴╣Г■╗CC Е╖⌠Е░█Ф╗≥Г╓╨-Г⌡╦Е░▄Ф√╧Е╪▐Е┬├Д╨╚ 3.0 Е▐╟Г│ё Ф▌┬Ф╛┼Ф╒²Ф╛╬</a>И┤▀Е┤╨Ц─┌<br />Ф╜╓Д╫°Е⌠│Х║█Г■÷Х┤╙<a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/Hom19910422" rel="dct:source">github.com</a>
