@@ -1,9 +1,8 @@
-Quadcopter-V1.0
+Quadcopter
 ========
 * File Name   : Readme.md
 * Author      : Hom19910422
-* Version     : v1.0
-* Update      : 2013/08/01
+* Update      : 2013/09/04
 * Description : University Project
 * Wiki        : https://github.com/Hom19910422/Quadcopter-V1.0/wiki
 
