@@ -2,8 +2,10 @@ Quadcopter
 ========
 * Author      : [Hom](https://github.com/Hom19910422)
 * Update      : 2013/11/22
-* Description : 102年的大學專題，自己做的，可以達到平衡，但尚無法懸停，需要更新的飛控版本請到 [QCopterFC](https://github.com/Hom19910422/QCopterFlightControl) 下載，這裡不再做更新。
 * Wiki        : https://github.com/Hom19910422/Quadcopter-V1.0/wiki
+* Description :   
+102年的大學專題，可以大致達到平衡(不太穩)，但尚無法懸停，  
+需要更新的飛控版本請到 [QCopterFC](https://github.com/Hom19910422/QCopterFlightControl) 下載，這裡將不再做更新。
 
 飛控板
 ========
