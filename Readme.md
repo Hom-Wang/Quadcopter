@@ -22,6 +22,7 @@ Quadcopter
 * 儲存紀錄　SD卡，使用SDIO操作
 * 1個I2C接口　外擴其他裝置
 * 1個UART接口　可擴充GPS模組、藍芽模組、電腦傳輸RS232
+* DEMO Videos https://www.youtube.com/watch?v=KsObp2a2QdA
 <p>
 <br />
 四軸飛行器<br />
